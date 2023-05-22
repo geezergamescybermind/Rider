@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "fileName": "DirtTexture.png",
+    "width": 32,
+    "height": 32,
+    "columns": 1,
+    "rows": 1,
+    "frames": [
+        {
+            "duration": 80
+        }
+    ]
+}
